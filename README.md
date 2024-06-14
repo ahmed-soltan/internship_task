@@ -1,3 +1,4 @@
+# TaskMaster
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -28,3 +29,18 @@ export default {
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+
+TaskMaster is a simple and intuitive task management application that helps users manage their daily tasks efficiently. With a clean interface and essential features, TaskMaster is designed to keep you organized and productive.
+
+TaskMaster
+TaskMaster is a simple and intuitive task management application designed to help users manage their daily tasks efficiently. Built with modern web technologies, it offers a clean interface and essential features for task management.
+
+# Technologies Used:
+- React
+- typescript
+- tailwind
+- shadeCn
+
+# Live Demo
+
+  - [live Demo](https://internship-task-blond.vercel.app/)
