@@ -79,8 +79,8 @@ export function EditTask({
                 <FormItem className="w-full">
                   <FormControl className="w-full">
                     <Input placeholder="Type a Task" {...field} />
-                  <FormMessage/>
                   </FormControl>
+                  <FormMessage/>
                 </FormItem>
               )}
             />
